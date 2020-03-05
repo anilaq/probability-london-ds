@@ -1,11 +1,21 @@
-# Probability-london-ds
+# Introduction to Probability
 
 Lecture V2.1 Probability Lecture for London Flatiron Campus.
 The original materials for this lecture were originally developed by the Seattle Campus and can be found [here](https://github.com/learn-co-students/probability_seattle-ds).
 
-* [Lecture Slides](https://docs.google.com/presentation/d/1-5nHB8cNhCnriDnxKmhQmBeNu6aRPICNyRjBbbicNz8/edit?usp=sharing).
+* [Lecture Slides](https://docs.google.com/presentation/d/1-5nHB8cNhCnriDnxKmhQmBeNu6aRPICNyRjBbbicNz8/edit?usp=sharing)
 
 * [Exit Ticket](https://forms.gle/EuiJE2iViWgZz85u6) 
+
+
+## Learning Goals 
+
+* [ ] Student can describe the difference between descriptive and inferential statistics.
+* [ ] Student can explain the difference between independent and dependent statistical events.
+* [ ] Student can define combinations, permutations, and how they relate to set theory.
+* [ ] Student can define three axioms of probability.
+* [ ] Student can identify and import Python libraries dealing with probability. 
+* [ ] Student has attempted to solve one probability problem using Python.
 
 ## Outline
 
